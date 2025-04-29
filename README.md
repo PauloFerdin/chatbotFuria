@@ -1,51 +1,16 @@
-# 🦁 Chatbot FURIA - Desafio Conversacional
+# chatbotfuria
 
-Bem-vindo ao projeto do **Chatbot da FURIA**, criado especialmente para o desafio #1 da organização! Um app feito por torcedor, para torcedor — com funcionalidades reais, estilo esportivo e inteligência artificial integrada com ChatGPT.
+Projeto feito para entrevista da furia!
 
-## 💡 Sobre o Projeto
-Este app permite que fãs da FURIA:
-- Conversem com um chatbot com IA real (ChatGPT via OpenAI)
-- Façam perguntas sobre elenco, próximos jogos e curiosidades
-- Testem seus conhecimentos em um **quiz interativo** com perguntas reais sobre o time
+## Getting Started
 
-## 🛠 Tecnologias Utilizadas
-- **Flutter** (web/mobile)
-- **Dart**
-- **OpenAI API** (ChatGPT `gpt-3.5-turbo`)
-- Animações com `Hero`, `AnimatedContainer`, `AnimatedOpacity`
+This project is a starting point for a Flutter application.
 
-## ✨ Funcionalidades
-### 🧠 Chatbot com IA
-- Interface simples e moderna
-- Integração com OpenAI
-- Mensagens personalizadas com visual esportivo
+A few resources to get you started if this is your first Flutter project:
 
-### 🔥 Quiz Interativo
-- Perguntas com múltipla escolha sobre a FURIA
-- Feedback visual para acertos e erros
-- Barra de progresso animada
-- Resultado final com pontuação
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-## 🚀 Como Rodar
-```bash
-flutter pub get
-flutter run -d chrome
-```
-
-💡 Para usar a IA, crie uma conta em https://platform.openai.com/ e gere uma API key.
-Substitua `CHAVE API VEM AQUI` no arquivo `ia_data.dart`.
-
-## 🔒 Aviso
-⚠️ Nunca exponha sua chave da OpenAI em repositórios públicos. Para segurança, use variáveis de ambiente ou arquivos `.env` em produção.
-
----
-
-## 🙋‍♂️ Autor
-**Paulo César Maximiano Ferdin**
-- Desenvolvedor Flutter/C# | Torcedor da FURIA
-- https://www.linkedin.com/in/paulo-cesar-maximiano-ferdin-05b434256/
-
----
-
-**“A FURIA não é só um time, é um sentimento. Esse app é uma homenagem à torcida mais braba do CS.”** 🎯
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
